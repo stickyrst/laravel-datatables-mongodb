@@ -30,7 +30,7 @@
           ]
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "scripts": {
         "test": "vendor/bin/phpunit",
         "cs": "vendor/bin/phpcs src/*"
